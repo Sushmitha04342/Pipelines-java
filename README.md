@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/vn00lpx/SamsDevops-Pipeline/_apis/build/status/Sushmitha04342.Pipelines-java)](https://dev.azure.com/vn00lpx/SamsDevops-Pipeline/_build/latest?definitionId=8)
+[![Build Status](https://dev.azure.com/vn00lpx/Pipelines-java/_apis/build/status/Pipelines-java%20-%20CI)](https://dev.azure.com/vn00lpx/Pipelines-java/_build/latest?definitionId=11)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
